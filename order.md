@@ -1,6 +1,6 @@
 ## Java Teams Review
 
-We are going to be building out all the classes necessary to maintain or very own Hockey team! Make sure to follow
+We are going to be building out all the classes necessary to maintain our very own Hockey team! Make sure to follow
 the order of operations below when deciding what class to work on next.
 Tests have been provided as well, so be sure to use those to guide your work.
 
